@@ -4,17 +4,74 @@
   
     
     <entry>
-      <title>test1</title>
-      <link href="/2024/08/20/test1/"/>
-      <url>/2024/08/20/test1/</url>
+      <title>米瑞24届纳新（点击）</title>
+      <link href="/2024/08/20/jianjie/"/>
+      <url>/2024/08/20/jianjie/</url>
       
-        <content type="html"><![CDATA[<p>test</p><img src="/2024/08/20/test1/image.jpg" class="" title="test">]]></content>
+        <content type="html"><![CDATA[<h2 id="米瑞24届纳新开始啦！"><a href="#米瑞24届纳新开始啦！" class="headerlink" title="米瑞24届纳新开始啦！"></a>米瑞24届纳新开始啦！</h2><img src="/2024/08/20/jianjie/1.png" class=""><img src="/2024/08/20/jianjie/2.png" class=""><img src="/2024/08/20/jianjie/3.png" class=""><img src="/2024/08/20/jianjie/2w.jpg" class="">]]></content>
       
       
       
         <tags>
             
-            <tag> test </tag>
+            <tag> 纳新 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>米瑞工作室简介1</title>
+      <link href="/2024/08/20/22/"/>
+      <url>/2024/08/20/22/</url>
+      
+        <content type="html"><![CDATA[<h2 id="米瑞工作室简介"><a href="#米瑞工作室简介" class="headerlink" title="米瑞工作室简介"></a>米瑞工作室简介</h2><h6 id="想在大学时光中获得真正的实践，想在宿舍外学到更多的知识，在米瑞工作室学习探索创新不断提高自我。"><a href="#想在大学时光中获得真正的实践，想在宿舍外学到更多的知识，在米瑞工作室学习探索创新不断提高自我。" class="headerlink" title="想在大学时光中获得真正的实践，想在宿舍外学到更多的知识，在米瑞工作室学习探索创新不断提高自我。"></a>想在大学时光中获得真正的实践，想在宿舍外学到更多的知识，在米瑞工作室学习探索创新不断提高自我。</h6><img src="/2024/08/20/22/1.jpg" class=""><img src="/2024/08/20/22/2.jpg" class=""><h5 id="参见赛事，为简历增添一笔金"><a href="#参见赛事，为简历增添一笔金" class="headerlink" title="参见赛事，为简历增添一笔金"></a>参见赛事，为简历增添一笔金</h5><img src="/2024/08/20/22/3.jpg" class=""><img src="/2024/08/20/22/4.jpg" class=""><p>报名qq群：431428402</p><img src="/2024/08/20/22/2w.jpg" class="">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> jianjie </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>往届学长项目以及照片</title>
+      <link href="/2024/08/20/pic1/"/>
+      <url>/2024/08/20/pic1/</url>
+      
+        <content type="html"><![CDATA[<h6 id="工作室成员共同开发合力完成项目"><a href="#工作室成员共同开发合力完成项目" class="headerlink" title="工作室成员共同开发合力完成项目"></a>工作室成员共同开发合力完成项目</h6><img src="/2024/08/20/pic1/1.jpg" class=""><h6 id="各类车项目-寻线-识别抓取"><a href="#各类车项目-寻线-识别抓取" class="headerlink" title="各类车项目 寻线.识别抓取"></a>各类车项目 寻线.识别抓取</h6><img src="/2024/08/20/pic1/2.jpg" class=""><img src="/2024/08/20/pic1/3.jpg" class=""><h6 id="自我设计硬件-以及打印电路板和实现功能！"><a href="#自我设计硬件-以及打印电路板和实现功能！" class="headerlink" title="自我设计硬件 以及打印电路板和实现功能！"></a>自我设计硬件 以及打印电路板和实现功能！</h6><img src="/2024/08/20/pic1/4.jpg" class=""><img src="/2024/08/20/pic1/5.jpg" class=""><h5 id="还有更多有趣的项目，等待你们的探索与创造！"><a href="#还有更多有趣的项目，等待你们的探索与创造！" class="headerlink" title="还有更多有趣的项目，等待你们的探索与创造！"></a>还有更多有趣的项目，等待你们的探索与创造！</h5>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> pic </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>23project01</title>
+      <link href="/2024/08/20/23-jie-gong-cheng-shi-li-1/"/>
+      <url>/2024/08/20/23-jie-gong-cheng-shi-li-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="基于视觉识别的六足勘测机器人"><a href="#基于视觉识别的六足勘测机器人" class="headerlink" title="基于视觉识别的六足勘测机器人"></a>基于视觉识别的六足勘测机器人</h1><img src="/2024/08/20/23-jie-gong-cheng-shi-li-1/1.jpg" class=""><h6 id="主要模块："><a href="#主要模块：" class="headerlink" title="主要模块："></a>主要模块：</h6><p>​主控：KHADAS VIM3 PRO      STM32C8T6       ARDUINO PRO MICRO</p><pre><code>传感器：SHT30温湿度传感器   GY-BMP280大气压传感器    GY-291 ADXL345 重力加速度倾斜模块GY-NEO-6MV2 GPS模块   NRF2401无线收发模块      MAX4466声音传感器/INMP441麦克风模块GY-530 VL53L0X 激光测距   TEMT6000环境光传感器     HC-SR04次声波模块joystick</code></pre><img src="/2024/08/20/23-jie-gong-cheng-shi-li-1/2.jpg" class=""><p>前期开发实验室提供场地以及3d打印机：</p><img src="/2024/08/20/23-jie-gong-cheng-shi-li-1/3.jpg" class=""><img src="/2024/08/20/23-jie-gong-cheng-shi-li-1/4.jpg" class=""><p>目前处于开发阶段;</p><img src="/2024/08/20/23-jie-gong-cheng-shi-li-1/5.jpg" class="">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 23 </tag>
             
         </tags>
       
